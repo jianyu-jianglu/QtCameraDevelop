@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ICON/Camera.png</file>
+        <file>ICON/OpenFile.png</file>
+        <file>ICON/SaveFile.png</file>
+        <file>ICON/connect.png</file>
+        <file>ICON/continue.png</file>
+        <file>ICON/grab.png</file>
+        <file>ICON/help.png</file>
+        <file>ICON/code.png</file>
+        <file>ICON/log.png</file>
+    </qresource>
+</RCC>
